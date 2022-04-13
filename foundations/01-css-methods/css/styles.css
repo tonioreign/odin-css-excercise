@@ -1,0 +1,22 @@
+* {
+    color: white;
+}
+
+.main-content {
+    background-color: red;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.main-para {
+    background-color: green;
+    font-size: 18px;
+}
+
+.main-button {
+    color: black;
+    font-size: 18px;
+    background-color: orange;
+}
