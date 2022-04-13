@@ -1,0 +1,19 @@
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#deven-2 {
+   color: blue; 
+   font-size: 36px;
+}
+
+.number {
+    font-size: 24px;
+}
+
+#deven-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
